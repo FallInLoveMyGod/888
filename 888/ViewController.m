@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // ced
+    // ced】
+    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(10, 10, 100, 100)];
+    
 }
 
 
